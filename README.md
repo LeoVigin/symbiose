@@ -16,5 +16,5 @@ It is mainly built using HTML, CSS, and JavaScript as part of a school project.
 ## Installation & Start
 To install the project, download the folder and launch it using Go Live (or any local development server).
 
-### Authors
+## Authors
 @Leogeox
