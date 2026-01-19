@@ -16,7 +16,7 @@ It contains two sub-projects: a video game and a short film. Each addressing an 
 It is mainly built using HTML, CSS, and JavaScript as part of a school project.
 
 ## Installation & Start
-- Download the folder
+- Download the folder or clone the repository using
 ``` php
 git clone https://github.com/LeoVigin/symbiose.git
 ```
