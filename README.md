@@ -23,4 +23,4 @@ git clone https://github.com/LeoVigin/symbiose.git
 - Launch it using any local development server.
 
 ## Authors
-@Leogeox
+@LeoVigin
